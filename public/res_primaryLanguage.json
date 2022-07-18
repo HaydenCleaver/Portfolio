@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Hayden Cleaver.",
+      "description_header": "Hello!",
+      "description": "My name is Hayden Cleaver and I'm a software developer.  I was previously a military linguist for 6 years.  Since then I have been in school for a couple of years but I have decided to switch tracks and pursue opportunities in the tech industry.  I chose software development in particular because I'm familiar with detailed analysis and dealing with new languages from my time in the military.  I think that those skills have transferred pretty well into helping me adjust and learn how to code in an immersive training program. I also have pretty extensive experience with teamwork and professional correspondence and communication, and I would love to take those abilities and my training and apply what I've learned to contribute to a team as well as continue to develop my skills in this field.  ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,12 +11,11 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Web Arcade",
+        "startDate": "2022",
+        "description": "A web application that tested myself and my teammates on our core knowledge of HTML, JavaScript, and CSS.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/WebArcade.jpg"
         ],
         "url": "",
         "technologies": [
@@ -35,12 +34,12 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Odd-Duck",
+        "startDate": "2022",
+        "description": "Early project that utilized JavaScript to manipulate DOM elements and render projected sales data.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/OddDuck.jpg",
+          "images/portfolio/photography/OddDuck2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -55,8 +54,8 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
+        "title": "301 Placeholder",
+        "startDate": "2022",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
           "images/portfolio/adventure/p1.jpg",
