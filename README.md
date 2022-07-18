@@ -42,9 +42,9 @@ Finish time: 2:50 am
 Actual time needed to complete: 30 minutes
 ## Step 5
 
-Estimate of time needed to complete: 30 minutes
+Estimate of time needed to complete: 15 minutes
 
-Start time: _____
+Start time: 2:50 am
 
 Finish time: _____
 
